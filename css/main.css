@@ -1,3 +1,7 @@
 .not-exists {
     display: none
 }
+
+.should-exists {
+    display: inherit
+}
